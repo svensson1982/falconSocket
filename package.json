@@ -1,0 +1,18 @@
+{
+  "name": "socket_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "socketSw.js",
+  "scripts": {
+    "prettify": "prettier --single-quote --tab-width=4 --trailing-comma=all --no-semi --no-bracket-spacing --write '**/*.js'"
+  },
+  "dependencies": {
+    "express": "^4.16.3",
+    "jquery": "^3.3.1",
+    "socket.io": "^2.0.4",
+    "socket.io-stream": "^0.9.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
